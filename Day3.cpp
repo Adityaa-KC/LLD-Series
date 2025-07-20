@@ -27,7 +27,7 @@ class manualCar : public Car{
     int fuel = 10;
 public:
     manualCar(){
-        // setInfo();
+        setInfo();
     }
     void change_gear();
     void fuel_indication();
@@ -37,7 +37,7 @@ class elecCar : public Car{
     int bp = 100 ;
 public:
     elecCar(){
-        // setInfo();
+        setInfo();
     }
     void Battery_percentage();
     void is_batt_charging();
