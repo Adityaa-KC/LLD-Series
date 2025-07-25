@@ -7,3 +7,4 @@ DAY 6 == Interface-Segregation Principle,Dependency-Inversion Principle done✅<
 DAY 7 == Build the Mini Google Docs Version done✅<br>
 DAY 8 == Strategy Design Pattern done✅<br>
 DAY 9 == Factory Design Pattern done✅<br>
+DAY 10 == Singleton Design Pattern done✅<br>
