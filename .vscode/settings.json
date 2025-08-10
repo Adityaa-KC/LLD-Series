@@ -3,6 +3,19 @@
         "ostream": "cpp",
         "new": "cpp",
         "iostream": "cpp",
-        "atomic": "cpp"
+        "atomic": "cpp",
+        "numeric": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "cmath": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "limits": "cpp",
+        "tuple": "cpp"
     }
 }
